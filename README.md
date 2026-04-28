@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Neelesh 👋<br><br>🚀 Full Stack Developer<br>💡 Building scalable backend + real-time systems<br><br>---<br><br>## 🔥 Featured Projects<br><br>### ☁️ Personal Cloud System<br><br>* File upload/download + encryption<br>* JWT authentication<br>* MERN stack<br><br>### 💬 Real-Time Chat App<br><br>* Live messaging using Socket.IO<br>* Online users + typing indicator<br><br>---<br><br>## 🛠 Tech Stack<br><br>* Frontend: React, Tailwind<br>* Backend: Node.js, Express<br>* Database: MongoDB<br><br>---<br><br>## 📈 Currently Learning<br><br>* System Design<br>* Scalable Backend<br>* AI integration<br><br>---<br><br>## 📫 Connect<br><br>* LinkedIn: https://www.linkedin.com/in/neelesh-goyal-77489b24a<br>* Email: neeleshgoyal425@gmail.com
+# Hi, I'm Neelesh 👋<br><br>🚀 Full Stack Developer<br>💡 Building scalable backend + real-time systems<br><br>---<br><br>## 📫 Connect<br><br>* LinkedIn: https://www.linkedin.com/in/neelesh-goyal-77489b24a<br>* Email: neeleshgoyal425@gmail.com
 
 
 ## 🌐 Socials:
